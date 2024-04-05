@@ -1,0 +1,12 @@
+{
+  "proseWrap": "always",
+  "printWidth": 100,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "parser": "markdown"
+      }
+    }
+  ]
+}
