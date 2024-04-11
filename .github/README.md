@@ -1,3 +1,5 @@
+[![pre-commit](https://github.com/sydjango-org/sydjango-content/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/sydjango-org/sydjango-content/actions/workflows/ci.yml)
+
 # Content for SyDjango.org website
 
 ## Introduction
