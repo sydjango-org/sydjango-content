@@ -14,13 +14,14 @@ jobs:
       - uses: pre-commit/action@v3.0.1
 
   publish:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     needs: pre-commit
     steps:
       - uses: actions/checkout@v4
         with:
           repository: sydjango-org/sydjango
-          ref: small-tweaks
+          ref: master
           submodules: true
           token: ${{ secrets.PAT }}
       - run: |
@@ -28,4 +29,4 @@ jobs:
           git config user.email github-actions@github.com
           git submodule update --init --remote
           git commit -am "Website content updated"
-          git push origin small-tweaks
+          git push origin master
