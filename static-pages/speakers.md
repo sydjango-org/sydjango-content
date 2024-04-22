@@ -2,8 +2,6 @@
 title: SyDjango Speaker Resources
 ---
 
-# Speaker Resources
-
 ## Speak at SyDjango
 
 You've got an amazing idea for a talk and want to present it at one of the future SyDjango events?
