@@ -1,5 +1,5 @@
 ---
-title: SyDjango Speaker Resources
+title: SyDjango – Resources for Speakers
 ---
 
 ## Speak at SyDjango
@@ -113,3 +113,9 @@ engagement and prevent potential technical issues.
 
 Last, but not least. Your talk must be aligned with our
 [code of conduct](https://sydjango.org/code). Please, make sure you are familiar with it.
+
+## Additional resources
+
+Regardless of your experience as a speaker we highly encourage you to spare a half an hour to watch
+the ["Present like a pro!"](https://youtu.be/YMcx35RGzYM?si=pUeH31qfmU8JUHcw) Katie McLaughlin's
+talk at PyCon AU 2023. It is made by an engineer for engineers. You won't regret it!
