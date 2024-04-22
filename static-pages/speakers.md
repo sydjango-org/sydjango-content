@@ -48,9 +48,9 @@ Sure, please find below some common sense advice for preparing your talk.
 
 ### Mind your target audience
 
-We have engineers of all level attending our events. It's usually a good ideal to assume the minimal
-knowledge on the topic from the audience. It doesn't matter how advanced your topic is please try to
-make it accessible to everyone.
+We have engineers of all levels attending our events. It's usually a good ideal to assume the
+minimal knowledge on the topic from the audience. It doesn't matter how advanced your topic is
+please try to make it accessible to everyone.
 
 ### Keep it simple
 
@@ -59,17 +59,16 @@ comprehend.
 
 ### Be concise
 
-Use simple language. Avoid jargon unless it's not an essential part of your talk.
+Use simple language. Avoid jargon unless it's an essential part of your talk.
 
 ### Work on connecting parts of your talks
 
 It's always easier to follow the material when its logical parts are well connected. Ideally, try to
-make your presentation to sound like a story.
+make your presentation sound like a story.
 
 ### Use visuals
 
-Visuals can supplement your presentation very well. It's worth nothing to say it helps to make your
-points more easily understood.
+Visuals can supplement your presentation very well and make your ideas clearer.
 
 ### Practice
 
@@ -88,8 +87,8 @@ good idea to dedicate some time to think about potential questions the audience 
 
 ### Use examples and analogues
 
-Use real-world examples to illustrate what you speaking about and consider adding analogies, good
-analogies can make your talk more engaging.
+Use real-world examples to illustrate what you are speaking about and consider adding analogies.
+Good analogies can make your talk more engaging.
 
 ### Just be yourself
 
@@ -98,7 +97,7 @@ you to avoid additional stress and save energy.
 
 ### Be cautious with live demos
 
-It will be far easier for your to speak over your prerecorded demos and it will increase audience
+It will be far easier for you to speak over your prerecorded demos and it will increase audience
 comprehension.
 
 ### Code of Conduct
