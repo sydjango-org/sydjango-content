@@ -2,7 +2,7 @@
 title: SyDjango Speaker Resources
 ---
 
-# SyDjango Speaker Resources
+# Speaker Resources
 
 ## Speak at SyDjango
 
@@ -10,9 +10,9 @@ You've got an awesome idea for a talk and want to present it at one of the futur
 That's great! We're excited to have you present at our meetup. On this page we provide you with all
 the information you need to prepare for your talk.
 
-First of all, please submit this form: https://sydjango.org/propose-talk. Once done SyDjango org
-team will be notified and one of us will be in touch to confirm the date and the rest of details.
-Thank you for volunteering!
+First of all, please submit our [talk proposal form](https://sydjango.org/propose-talk). Once done,
+SyDjango org team will be notified and one of us will be in touch to confirm the date and the rest
+of details. Thank you for volunteering!
 
 Next, start preparing for your talk to be ready on the scheduled date. Please, keep reading further
 for some advices.
@@ -35,14 +35,26 @@ follows:
 
 The incomplete list of high-level topics the group members are interested is below:
 
-– OSS projects related to Django – APIs – Backend Software Engineering – Frontend Software
-Engineering – Infrastructure – DevOps – Site Reliability Engineering – Scalability – Security – QA –
-Data – ML/AI – Soft Skills – Career in Tech – Startups
+- OSS projects related to Django
+- APIs
+- Backend Development
+- Frontend Development
+- Infrastructure
+- DevOps
+- Software Reliability
+- Scalability
+- Security
+- QA
+- Data
+- ML/AI
+- Soft Skills
+- Career in Tech
+- Startups
 
 We are happy to accept talks that are at least loosely connected to Django. Of course, the stronger
 the connection is the better.
 
-## Can you help me to prepare for my talk?
+## Can you give me some tips to prepare for my talk?
 
 Sure, please find below some common sense advice for preparing your talk.
 
@@ -90,15 +102,15 @@ good idea to dedicate some time to think about potential questions the audience 
 Use real-world examples to illustrate what you are speaking about and consider adding analogies.
 Good analogies can make your talk more engaging.
 
-### Just be yourself
+### Be yourself
 
 Speak in your natural voice, be honest, and don't be afraid to show your personality. It will help
-you to avoid additional stress and save energy.
+you to avoid additional stress and save energy during the talk.
 
 ### Be cautious with live demos
 
-It will be far easier for you to speak over your prerecorded demos and it will increase audience
-comprehension.
+It will be far easier for you to speak over your prerecorded demos which will increase audience
+engagement.
 
 ### Code of Conduct
 
