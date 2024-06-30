@@ -15,6 +15,10 @@ become a better web developer.
   starting with the official Django tutorial. By the end of this mini-course, you should be pretty
   comfortable with building simple Django apps.
 
+- [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) – This
+  resource is part of the Mozilla Developer Network (MDN) and is a great resource for learning
+  Django from scratch.
+
 ## 📚 Books
 
 - [Django For Beginners](https://djangoforbeginners.com/) – A great entry-level book on Django. It
@@ -45,3 +49,14 @@ become a better web developer.
 - [Application Security Training](https://application.security/) – Every professional web developer
   should know about at least the most common security vulnerabilities. On this website, you can find
   free interactive exercises that can help you learn how to prevent them in your apps.
+
+## 🎥 Video Courses
+
+- [Python Django - The Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/?kw=django+practical+guide&src=sac&subs_filter_type=subs_only&couponCode=LETSLEARNNOWPP)
+  – This Udemy course by Maximilian Schwarzmüller is a great starting point for anyone who wants to
+  learn Django.
+
+## 📺 YouTube Channels
+
+- [BugBytes](https://www.youtube.com/@bugbytes3923) - Great YT channel with Django tutorials on
+  multiple topics that are easy to follow and understand.
